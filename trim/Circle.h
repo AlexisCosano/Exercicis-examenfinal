@@ -2,7 +2,7 @@
 #define __P2CIRCLE_H__
 
 #include "p2Point.h"
-
+// Crêpe test
 template  <class type>
 class Circle
 {
